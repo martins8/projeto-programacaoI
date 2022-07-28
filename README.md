@@ -1,2 +1,2 @@
 # projeto-programacaoI
-Meu projeto da cadeira de Programação I do curso de Licenciatura em Computação da UFRPE. Este projeto possui as mesmas características que o projeto de Laboratório de Programação I, mudando apenas algumas melhorias que eu precisei implementar para que um se diferenciasse do outro. assim como foi pedido pelo docente responsável.
+Meu projeto da cadeira de Programação I do curso de Licenciatura em Computação da UFRPE. Este projeto possui as mesmas características gerais que o projeto de Laboratório de Programação I, o qual, também, foi produzido por volta de maio de 2022. Neste projeto em questão, foi necessária a implementação de algumas melhorias no intuito de fazer que ele se diferenciasse, minimamente, do meu projeto de LAB PROG I.
